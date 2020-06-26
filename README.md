@@ -2162,3 +2162,14 @@ To resolve this:
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+
+## AUTHOR 
+
+You can get in touch with me on my [linkedin Profile](https://www.linkedin.com/in/qazi-mateen-ahmad-9bb57519a)
+
+You can also follow my GitHub Profile to stay updated about my latest Projects [GitHub](https://github.com/mateenqazi)
+
+If you liked the repo then kindly support it by giving it a star ⭐
+
+
+
